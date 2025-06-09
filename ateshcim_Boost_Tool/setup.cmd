@@ -1,0 +1,13 @@
+python -m pip install  flask
+python -m pip install  discord_webhook
+python -m pip install  discord_webhook
+python -m pip install  discord.utils._MissingSentinel
+python -m pip install  colorama
+python -m pip install  yarl
+python -m pip install  aiohttp
+python -m pip install  httpx
+python -m pip install  tls_client
+python -m pip install  fade
+python -m pip install colorama
+python -m pip install  requests
+python -m pip install  dhooks
