@@ -6,15 +6,15 @@ import webbrowser
 
 
 ascii_art = [
-    Fore.MAGENTA + "        _            _          _          ",
-    Fore.MAGENTA + "       | |          | |        (_)          ",
-    Fore.MAGENTA + "   __ _| |_ ___  ___| |__   ___ _ _ __ ___ ",
-    Fore.MAGENTA + "  / _` | __/ _ \/ __| '_ \ / __| | '_ ` _ \ ",
-    Fore.MAGENTA + " | (_| | ||  __/\__ \ | | | (__| | | | | | | ",
-    Fore.MAGENTA + "  \__,_|\__\___||___/_| |_|\___|_|_| |_| |_| ",
-    Fore.MAGENTA + "                 Boost Tools | ateshcim                     ",
+    Fore.MAGENTA + "        _            _          _                                  ",
+    Fore.MAGENTA + "       | |          | |        (_)                                 ",
+    Fore.MAGENTA + "   __ _| |_ ___  ___| |__   ___ _ _ __ ___                         ",
+    Fore.MAGENTA + "  / _` | __/ _ \/ __| '_ \ / __| | '_ ` _ \                        ",
+    Fore.MAGENTA + " | (_| | ||  __/\__ \ | | | (__| | | | | | |                       ",
+    Fore.MAGENTA + "  \__,_|\__\___||___/_| |_|\___|_|_| |_| |_|                       ",
+    Fore.MAGENTA + "                 Boost Tools | ateshcim                            ",
     Fore.MAGENTA + "                This Tool By ateshcim | WasCode                    ",
-    Fore.MAGENTA + "                     discord.gg/wascode                         ",
+    Fore.MAGENTA + "                     discord.gg/wascode                            ",
 ]
 def open_discord_link():
     url = "https://discord.gg/wascode"
